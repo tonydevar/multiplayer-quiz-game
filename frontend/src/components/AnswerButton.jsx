@@ -55,12 +55,14 @@ export default function AnswerButton({ label, onClick, state = 'default', index 
         gap: '0.75rem',
         width: '100%',
         padding: '0.9rem 1.25rem',
+        minHeight: '52px',
         borderRadius: '0.625rem',
         fontSize: '1rem',
         fontWeight: 500,
         textAlign: 'left',
         transition: 'all 0.2s ease',
         outline: 'none',
+        WebkitTapHighlightColor: 'transparent',
         ...stateStyle,
       }}
     >

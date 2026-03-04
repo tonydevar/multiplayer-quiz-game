@@ -20,6 +20,8 @@ const s = {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'space-between',
+    flexWrap: 'wrap',
+    gap: '0.5rem',
   },
   questionBadge: {
     fontSize: '0.875rem',
@@ -29,7 +31,7 @@ const s = {
   card: {
     background: '#1e293b',
     borderRadius: '1rem',
-    padding: '2rem 1.75rem',
+    padding: '1.5rem 1.25rem',
     width: '100%',
     maxWidth: '680px',
     boxShadow: '0 4px 32px rgba(0,0,0,0.4)',

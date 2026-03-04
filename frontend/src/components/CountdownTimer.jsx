@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 
-const SIZE = 120;
-const STROKE = 8;
+const SIZE = 96;
+const STROKE = 7;
 const RADIUS = (SIZE - STROKE) / 2;
 const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
 
@@ -85,7 +85,7 @@ export default function CountdownTimer({ duration, onExpire }) {
           dominantBaseline="central"
           style={{
             fill: colour,
-            fontSize: '1.75rem',
+            fontSize: '1.5rem',
             fontWeight: 800,
             fontFamily: 'inherit',
             transform: `rotate(90deg)`,
