@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "choices": ["Go", "Gd", "Au", "Ag"],
+    "answer": "Au"
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "question": "How many bones are in the adult human body?",
+    "choices": ["196", "206", "216", "226"],
+    "answer": "206"
+  },
+  {
+    "id": 3,
+    "category": "Science",
+    "question": "What planet is known as the Red Planet?",
+    "choices": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 4,
+    "category": "History",
+    "question": "In what year did World War II end?",
+    "choices": ["1943", "1944", "1945", "1946"],
+    "answer": "1945"
+  },
+  {
+    "id": 5,
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "choices": ["John Adams", "Thomas Jefferson", "Benjamin Franklin", "George Washington"],
+    "answer": "George Washington"
+  },
+  {
+    "id": 6,
+    "category": "History",
+    "question": "Which ancient wonder was located in Alexandria, Egypt?",
+    "choices": ["The Colossus of Rhodes", "The Lighthouse of Alexandria", "The Hanging Gardens", "The Statue of Zeus"],
+    "answer": "The Lighthouse of Alexandria"
+  },
+  {
+    "id": 7,
+    "category": "Geography",
+    "question": "What is the capital city of Australia?",
+    "choices": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 8,
+    "category": "Geography",
+    "question": "Which is the longest river in the world?",
+    "choices": ["Amazon", "Yangtze", "Mississippi", "Nile"],
+    "answer": "Nile"
+  },
+  {
+    "id": 9,
+    "category": "Entertainment",
+    "question": "How many strings does a standard guitar have?",
+    "choices": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "id": 10,
+    "category": "Entertainment",
+    "question": "Which film won the first Academy Award for Best Picture?",
+    "choices": ["Sunrise", "Wings", "The Jazz Singer", "7th Heaven"],
+    "answer": "Wings"
+  }
+]
